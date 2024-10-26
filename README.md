@@ -18,8 +18,6 @@ Este proyecto tiene como objetivo guiar a los usuarios en la realización correc
 
 1. **Guía de Ejercicios**: Instrucciones detalladas sobre cómo realizar diferentes ejercicios correctamente.
 2. **Videos y Descripciones**: Integración de multimedia y texto para una comprensión visual y conceptual de cada ejercicio.
-3. **Sección de Favoritos**: Permite a los usuarios guardar sus ejercicios preferidos para un acceso rápido.
-4. **Búsqueda y Filtros**: Funcionalidad para encontrar ejercicios específicos según los objetivos o grupos musculares.
 
 ## Instalación 🚀
 
@@ -29,3 +27,5 @@ Para correr este proyecto localmente:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
    cd nombre-del-proyecto
+   npm install en cada directorio por separado
+   npm run dev en cada directorio por separado
