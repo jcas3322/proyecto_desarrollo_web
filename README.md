@@ -26,6 +26,5 @@ Para correr este proyecto localmente:
 1. **Clona el repositorio**:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd final
    npm install en cada directorio por separado
    npm run dev en cada directorio por separado
